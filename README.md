@@ -7,7 +7,6 @@
 it is a good practice to not lose my skills
 
 - ⚡ Fun fact: In some point of my career I would like to work in video games development
-- 
 <!--
 **ecaracasdev/ecaracasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
